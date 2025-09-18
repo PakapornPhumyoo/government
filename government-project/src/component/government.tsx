@@ -3,7 +3,6 @@ import { useForm } from "react-hook-form";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 
-// ใช้ภาพจาก assets
 import anutinImg from "../assets/anutin.jpg";
 import phumthamImg from "../assets/phumtham.jpg";
 import eknitiImg from "../assets/ekniti.jpg";
